@@ -7,7 +7,7 @@
     width: 100%; /* Opcional: ancho completo */
     top: 0; /* Ubica el navbar en la parte superior */
     z-index: 1000; /* Asegura que el navbar esté por encima de otros elementos */
-    height: 50px;
+    height: 20px;
   }
     
   /*.navbar ul {
